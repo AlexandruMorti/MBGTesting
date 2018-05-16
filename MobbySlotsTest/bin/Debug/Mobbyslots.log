@@ -1,0 +1,28 @@
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsLoginTests, Start testing the creation of a new user 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsLoginTests, Navigate to - https://www.mobbyslots.com/ 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsLoginTests, Click Join Now 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsLoginTests, Insert Username - mob20180516a 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsLoginTests, Insert Password - mob20180516a 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsLoginTests, Confirm Password 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsLoginTests, Insert Email -  
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsLoginTests, Insert Phone Number 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsLoginTests, Log In User 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsLoginTests, finish testing creation of new user 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Navigate to - https://www.mobbyslots.com/ 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Insert Username - mob20180516a 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Insert password - mob20180516a 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Log In User 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Click LOGO 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Navigate to - https://www.mobbyslots.com/ 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Insert Username - mob20180516 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Insert password - mob20180516 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Log In User 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Click LOGO 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Click All Games Section 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Click Featured Section 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Click Slots Section 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Click Table Section 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Click Promotion Section 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Click My Account Section 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Click i Help Section 
+Log Date is - Wed May 16 2018, INFO , Sent from - MobbySlotsTest.MobbyslotsGeneralTests, Finish testing LogINLinksGeneral  

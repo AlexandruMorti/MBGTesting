@@ -1,0 +1,28 @@
+Z:\Dropbox (Codentia)\Work in Progress\SourceCode\AM\VisualStudio\ToolsQA\Details\bin\Debug\Details.exe.config
+Z:\Dropbox (Codentia)\Work in Progress\SourceCode\AM\VisualStudio\ToolsQA\Details\bin\Debug\Details.exe
+Z:\Dropbox (Codentia)\Work in Progress\SourceCode\AM\VisualStudio\ToolsQA\Details\bin\Debug\Details.pdb
+Z:\Dropbox (Codentia)\Work in Progress\SourceCode\AM\VisualStudio\ToolsQA\Details\bin\Debug\nunit.framework.dll
+Z:\Dropbox (Codentia)\Work in Progress\SourceCode\AM\VisualStudio\ToolsQA\Details\bin\Debug\nunit.framework.xml
+Z:\Dropbox (Codentia)\Work in Progress\SourceCode\AM\VisualStudio\ToolsQA\Details\obj\Debug\Details.csprojResolveAssemblyReference.cache
+Z:\Dropbox (Codentia)\Work in Progress\SourceCode\AM\VisualStudio\ToolsQA\Details\obj\Debug\Details.exe
+Z:\Dropbox (Codentia)\Work in Progress\SourceCode\AM\VisualStudio\ToolsQA\Details\obj\Debug\Details.pdb
+Z:\Dropbox (Codentia)\Work in Progress\SourceCode\AM\VisualStudio\ToolsQA\Details\bin\Debug\log4net.dll
+Z:\Dropbox (Codentia)\Work in Progress\SourceCode\AM\VisualStudio\ToolsQA\Details\bin\Debug\log4net.xml
+C:\SourceCode\ToolsQA\Details\bin\Debug\Details.exe.config
+C:\SourceCode\ToolsQA\Details\obj\Debug\Details.exe
+C:\SourceCode\ToolsQA\Details\obj\Debug\Details.pdb
+C:\SourceCode\ToolsQA\Details\bin\Debug\Details.exe
+C:\SourceCode\ToolsQA\Details\bin\Debug\Details.pdb
+C:\SourceCode\ToolsQA\Details\bin\Debug\log4net.dll
+C:\SourceCode\ToolsQA\Details\bin\Debug\nunit.framework.dll
+C:\SourceCode\ToolsQA\Details\bin\Debug\log4net.xml
+C:\SourceCode\ToolsQA\Details\bin\Debug\nunit.framework.xml
+C:\SourceCode\ToolsQA\Details\bin\Debug\nunit.framework.pdb
+C:\SourceCode\ToolsQA\Details\bin\Debug\Google.Protobuf.dll
+C:\SourceCode\ToolsQA\Details\bin\Debug\MySql.Data.dll
+C:\SourceCode\ToolsQA\Details\bin\Debug\Google.Protobuf.xml
+C:\SourceCode\ToolsQA\Details\bin\Debug\MySql.Data.xml
+C:\SourceCode\ToolsQA\Details\bin\Debug\WebDriver.dll
+C:\SourceCode\ToolsQA\Details\bin\Debug\WebDriver.Support.dll
+C:\SourceCode\ToolsQA\Details\bin\Debug\WebDriver.xml
+C:\SourceCode\ToolsQA\Details\bin\Debug\WebDriver.Support.xml
