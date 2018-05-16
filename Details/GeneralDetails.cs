@@ -83,17 +83,17 @@ namespace Details
 
         public class AddCreditDetails
         {
-            public static string BaseUrl = "https://app1.juegoslatam.com/houseedge/login.action?rptRedirect=";
+            public static string BaseUrl = "";
 
-            public static string Username = "MOB_AlexM";
+            public static string Username = "";
 
-            public static string Password = "m06B7s!o72";
+            public static string Password = "";
 
             public static string UsernameToCredit = Details.Username;
 
-            public static string Ammount = "20.00";
+            public static string Ammount = "";
 
-            public static string Comments = "Testing";
+            public static string Comments = "";
 
         }
     }
