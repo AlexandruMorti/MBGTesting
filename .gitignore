@@ -240,3 +240,15 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+AddCredit/bin/
+
+AddCredit/obj/
+
+Details/bin/
+
+Details/obj/
+
+MobbySlotsTest/bin/
+
+MobbySlotsTest/obj/
